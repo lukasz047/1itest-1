@@ -1,3 +1,3 @@
 # 1itest
 test
-klasa 1i gr1
+klasa 1i gr1 2023
